@@ -3,37 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Agenda.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/CIFormula.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/StatusLeitura.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/FrmDetalhes.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/FrmMain.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/FrmImpedancias.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Source.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/serial/ACTRSerial.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Varredura.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/ImpedanceReaderACTR2.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/serial/SettlingTime.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Calibrador.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/serial/Comandos.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/DlgSobre.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/StatusEnsaio.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Well.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/ACTRChartCI.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/serial/Signal.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/CellIndexCalculator.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/CalibradorACTR2.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Leitura.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/DlgProgramacao.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/serial/ComandosACTR.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/ExecutaVarredura.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/EnsaioListener.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/TimerVarredura.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Programacao.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/FrmPlateMock.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/ImpedanceReader.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/Ensaio.java</file>
-            <file>file:/home/gustavo_vrr/NetBeansProjects/ACTR/code/ACTR3/src/actr/ImpedanceReaderFactory.java</file>
+            <file>file:/home/gustavo_vrr/git_clone/lbqp/actr3/desktop/ACTR3/src/actr/ACTRChartCI.java</file>
         </group>
     </open-files>
 </project-private>
