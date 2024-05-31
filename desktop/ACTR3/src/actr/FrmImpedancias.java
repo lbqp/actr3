@@ -24,7 +24,7 @@
  */
 package actr;
 
-import static actr.CalibradorACTR2.SECONDS_PER_WELL;
+import static actr.CalibradorACTR3.SECONDS_PER_WELL;
 import java.text.DecimalFormat;
 import java.util.Date;
 import javax.swing.JLabel;
@@ -69,7 +69,7 @@ public class FrmImpedancias extends javax.swing.JFrame {
 
         
         ImpedanceReader reader = ImpedanceReaderFactory.getImpedanceReader();
-        Calibrador calibrador = new CalibradorACTR2();
+        Calibrador calibrador = new CalibradorACTR3();
         reader.start();
         while(!close)
         {

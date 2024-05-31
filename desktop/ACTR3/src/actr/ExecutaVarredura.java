@@ -24,7 +24,7 @@
  */
 package actr;
 
-import static actr.CalibradorACTR2.SECONDS_PER_WELL;
+import static actr.CalibradorACTR3.SECONDS_PER_WELL;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.TimerTask;
@@ -45,7 +45,7 @@ public class ExecutaVarredura extends TimerTask implements Serializable {
     @Override
     public void run() {
         ImpedanceReader reader = ImpedanceReaderFactory.getImpedanceReader();
-        Calibrador calibrador = new CalibradorACTR2();
+        Calibrador calibrador = new CalibradorACTR3();
         
         reader.start();
         calibrador.calibrar();

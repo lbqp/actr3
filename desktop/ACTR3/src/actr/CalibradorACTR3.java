@@ -28,11 +28,11 @@ package actr;
  *
  * @author gustavo_vrr
  */
-public class CalibradorACTR2 implements Calibrador {
+public class CalibradorACTR3 implements Calibrador {
 
     protected static final double SECONDS_PER_WELL = 110.0/24.0; //1 minuto e 50 segundos para 24 poços (16 well + 8 calibracao)
-    private final double calKnownImpedances[] = new double[]{57 ,100 , 122,150 ,180 , 240, 330, 390 };
-    private final double calMeasImpedances[] = new double[]{57, 100, 122, 150, 180, 240, 330, 390 };
+    private final double calKnownImpedances[] = new double[]{68, 75, 82, 91, 100, 110, 120, 130, 150, 180, 200, 220, 240, 270, 330, 360 };
+    private final double calMeasImpedances[] = new double[]{68, 75, 82, 91, 100, 110, 120, 130, 150, 180, 200, 220, 240, 270, 330, 360 };
     private final Well[] wellList = {Well.WELL_A1,Well.WELL_B1,Well.WELL_C1,Well.WELL_D1,
                                 Well.WELL_E1, Well.WELL_F1, Well.WELL_G1, Well.WELL_H1};
     
